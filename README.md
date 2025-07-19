@@ -32,4 +32,4 @@ You can try it yourself in Google Colab.
 ---
 
 ## 🧑‍💻 Author
-Created by [Twoje Imię] as part of a summer AI portfolio project.
+Created by Blanka Rajchman as part of a portfolio project.
